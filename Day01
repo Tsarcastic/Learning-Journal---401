@@ -1,5 +1,13 @@
 Day1 Learning Journal
 
-Today I learned how to create a virtual environment. I learned that inside the environment we're only concerned with the .bin and the .lib files. This will ensure the computer checks those files for the module version before it checks elsewhere on the computer.
+Today I learned how to create a virtual environment. I learned 
+that inside the environment we're only concerned with the .bin
+and the .lib files. This will ensure the computer checks 
+those files for the module version before it checks elsewhere
+on the computer.
 
-We also learned some basic info about Python but it was largely stuff I'd learned through my miniature projects.
+We also learned some basic info about Python but it was largely stuff 
+I'd learned through my miniature projects. However I get the 
+impression the information I've learned will only last me until the 
+end of the week, tops.
+
